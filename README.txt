@@ -1,3 +1,11 @@
+This material came from Dr. Chuck from Coursera, which is a great course.
+I have learned how to spider the data and visualize it for furter data analytics.
+
+
+
+
+
+
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
